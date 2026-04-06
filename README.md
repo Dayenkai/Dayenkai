@@ -25,7 +25,7 @@ C++ Software Engineer focused on financial systems and high-performance data pro
 
 ## 📫 Contact
 
-- LinkedIn: [your link]
+- LinkedIn: https://www.linkedin.com/in/beker-bawilu%F0%9F%93%B2-240898172/
 
 <!--
 **Dayenkai/Dayenkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
