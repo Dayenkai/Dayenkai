@@ -1,4 +1,31 @@
-## Hi there 👋
+## Hi, I'm Beker 👋
+
+C++ Software Engineer focused on financial systems and high-performance data processing.
+
+---
+
+## 🚀 Main Project
+
+### Market Data Pipeline
+- C++ market data ingestion system
+- Multi-threaded architecture
+- Order book simulation
+- Focus on memory and performance optimization
+
+---
+
+## 🧠 Skills
+
+- C++ (STL, memory management)
+- Multithreading
+- System design
+- Linux
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [your link]
 
 <!--
 **Dayenkai/Dayenkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
