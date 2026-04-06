@@ -12,6 +12,8 @@ C++ Software Engineer focused on financial systems and high-performance data pro
 - Order book simulation
 - Focus on memory and performance optimization
 
+![Financial System](https://github.com/user-attachments/assets/33f87ff8-1f5d-408e-a80a-0d4ea66846b9)
+
 ---
 
 ## 🧠 Skills
