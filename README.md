@@ -7,12 +7,30 @@ C++ Software Engineer focused on financial systems and high-performance data pro
 ## 🚀 Main Project
 
 ### Market Data Pipeline
-- C++ market data ingestion system
-- Multi-threaded architecture
-- Order book simulation
-- Focus on memory and performance optimization
+C++ market data pipeline simulating real-time financial data processing.
 
+# Architecture :
 ![Financial System](https://github.com/user-attachments/assets/33f87ff8-1f5d-408e-a80a-0d4ea66846b9)
+
+# Components :
+
+It consists of a Multi-threaded architecture. It includes :
+
+[ NIC Simulator ]
+        ↓
+[ Ring Buffer ]
+        ↓
+[ Parser ]
+        ↓
+[ Normalizer ]
+        ↓
+[ Order Book ]
+
+# Goals
+
+- Low latency processing
+- Cache efficiency
+- Deterministic behavior
 
 ---
 
