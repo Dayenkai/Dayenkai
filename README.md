@@ -16,15 +16,7 @@ C++ market data pipeline simulating real-time financial data processing.
 
 It consists of a Multi-threaded architecture. It includes :
 
-[ NIC Simulator ]
-        ↓
-[ Ring Buffer ]
-        ↓
-[ Parser ]
-        ↓
-[ Normalizer ]
-        ↓
-[ Order Book ]
+[ NIC Simulator ] -> [ Ring Buffer ] -> [ Parser ] -> [ Normalizer ] -> [ Order Book ]
 
 ### Goals
 
